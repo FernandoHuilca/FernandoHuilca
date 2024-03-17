@@ -1,12 +1,6 @@
-![Imagen de encabezado](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
-	
- <a href="https://ibb.co/W229q5X"><img src="https://ibb.co/W229q5X"></a>
-
+![Imagen de Encabezado](https://i.ibb.co/QKKBzQV/Logo.png)
 
 </p>
-
-
-
 <br>
 	
 ## <picture><img src ="https://pin.it/2ihwosZAO" width = 50px></picture> **About me**
