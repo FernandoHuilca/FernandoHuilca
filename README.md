@@ -1,6 +1,7 @@
 ![Imagen de encabezado](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
 	
- <a href="https://ibb.co/W229q5X"><img src="https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg"></a>
+ <a href="https://ibb.co/W229q5X"><img src="https://ibb.co/W229q5X"></a>
+
 
 </p>
 
