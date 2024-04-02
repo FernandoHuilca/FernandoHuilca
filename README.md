@@ -3,17 +3,17 @@
 </p>
 <br>
 	
-## <picture><img src ="https://pin.it/2ihwosZAO" width = 50px></picture> **About me**
+## <picture><img src ="https://pin.it/2ihwosZAO/" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- Passionate about software development and self-taught enthusiast.
-- Reader in my free time, exploring a variety of topics.
-- Currently student of Software Engineering at the National Polytechnic School.
-- Link to my personal blog: [blog](https://fernando-huilca.blogspot.com)
-- Open to new job opportunities. Find me on LinkedIn: [my linkedin](https://www.linkedin.com/in/fernando-huilca-a3160826a/)
+- 💻 Passionate about software development and self-taught enthusiast.
+- 📖 Reader in my free time, exploring a variety of topics.
+- 🦉 Currently student of Software Engineering at the National Polytechnic School.
+- ✒️ Link to my personal [blog](https://fernando-huilca.blogspot.com)
+- 💭 Open to new job opportunities. Find me on [LinkedIn](https://www.linkedin.com/in/fernando-huilca-a3160826a/)
 
 <br><br>
 
@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,github,gmail,arduino,linkedin,matlab,notion,r,git,vscode,visualstudio,idea,instagram,blender,discord,html,css,js,py&perline=14" />
   </a>
 </p>
 
