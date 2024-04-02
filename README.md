@@ -1,7 +1,5 @@
 ![Imagen de Encabezado](https://i.ibb.co/QKKBzQV/Logo.png)
-
 </p>
-<br>
 	
 ## <picture><img src ="https://pin.it/2ihwosZAO/" width = 50px></picture> **About me**
 
@@ -36,11 +34,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,github,gmail,arduino,linkedin,matlab,notion,r,git,vscode,visualstudio,idea,instagram,blender,discord,html,css,js,py&perline=14" />
   </a>
 </p>
-
-<br>
-<br>
-
------
 
 <br>
 
