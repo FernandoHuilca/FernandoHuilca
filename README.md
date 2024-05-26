@@ -2,13 +2,9 @@
     <img src="https://github.com/FernandoHuilca/FernandoHuilca/assets/134117009/44fd9ec1-015b-4ddc-a73b-6d7428f1c168" alt="GIF centrado">
 </p>
 
-
 </p>
 	
-## <picture><img src ="https://pin.it/2ihwosZAO/" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+## **About me**  
 <br>
 
 - 💻 Passionate about software development and self-taught enthusiast.
