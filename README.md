@@ -1,4 +1,8 @@
-![Imagen de Encabezado](https://i.ibb.co/QKKBzQV/Logo.png)
+<p align="center">
+    <img src="https://github.com/FernandoHuilca/FernandoHuilca/assets/134117009/44fd9ec1-015b-4ddc-a73b-6d7428f1c168" alt="GIF centrado">
+</p>
+
+
 </p>
 	
 ## <picture><img src ="https://pin.it/2ihwosZAO/" width = 50px></picture> **About me**
